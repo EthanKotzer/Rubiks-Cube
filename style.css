@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000;
+  font-family: Arial;
+}
+
+canvas {
+  display: block;
+}
+
+button {
+  position: absolute;
+  top: 20px;
+  z-index: 1;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#shuffleBtn {
+  left: 20px;
+}
+
+#resetBtn {
+  left: 120px;
+}
+
+#instructions {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.6;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: left;
+  direction: ltr;
+}
