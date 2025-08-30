@@ -3,7 +3,8 @@
 An interactive 3D Rubik’s Cube built with **Three.js**, split into clean HTML/CSS/JS files.
 
 ## Live Demo
-[View on GitHub Pages](./)
+[▶️ View on GitHub Pages](https://ethankotzer.github.io/Rubiks-Cube/)
+
 
 ## Features
 - Smooth 3D rendering and orbit/pan/zoom controls
